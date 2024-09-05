@@ -27,18 +27,19 @@ Data Analysis - Rstudio (Libraries used in R)<br/>
  * library(tidyr)<br/>
  * library(data.table)
  * library(tidyverse)
-e.	library(readr)
-f.	library(skimr)
-g.	library(janitor)
-h.	library(data.table)
+ * library(readr)
+ * library(skimr)
+ * library(janitor)
+ * library(data.table)
 Excel (for createing charts for final report)
-PowerPoint (for creating final report).
-3.	Data Exploration and Customer Analysis (Task 1)
+PowerPoint (for creating final report)
+
+## Data Exploration and Customer Analysis (Task 1)
 Analyze transaction and customer data to identify customer purchasing behaviours to generate insights and provide commercial recommendations. Create metrics to gain insights into overall sales performance and create visualizations and prepare findings to formulate a clear recommendation for the client's strategy.
-Background information for the task
-The Category Manager for Chips wants to get better understanding of the types of customers who purchase Chips and their purchasing behaviour within the region.
-As a part of Quantium’s retail analytics team, we need to analyse the data to understand the current purchasing trends and behaviours. The client is particularly interested in customer segments and their chip purchasing behaviour. 
-The main goals of the task are :
+
+### Background information for the task
+The Category Manager for Chips wants to get better understanding of the types of customers who purchase Chips and their purchasing behaviour within the region. As a part of Quantium’s retail analytics team, we need to analyse the data to understand the current purchasing trends and behaviours. The client is particularly interested in customer segments and their chip purchasing behaviour. 
+<br/>The main goals of the task are :
 1.	Exploratory data analysis -examine transaction data and customer data for formatting, missing data, anomalies, outliers 
 2.	Data analysis on customer segments – 
 •	Who spends the most on chips (total sales), describing customers by lifestage and how premium their general purchasing behaviour is
