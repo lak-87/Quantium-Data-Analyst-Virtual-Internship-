@@ -4,14 +4,14 @@ Welcome to my repository Quantium Data Analytics Virtual Internship, which conta
 
 Certificate of Completion:https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_WfhCvYnh4LMnnzbrf_1723766750042_completion_certificate.pdf
 
-# Table of Contents
+## Table of Contents
 1.	Introduction 
 2.	Tools
 3.	Data Exploration and Customer Analytics (Task 1)
 4.	Experimentation and uplift testing (Task 2)
 5.	Analytics and commercial application (Task 3)
 
-# Introduction
+## Introduction
 
 Supermarkets frequently adjust their store layouts, product offerings, pricing, and promotions to meet evolving customer needs and preferences, stay competitive, and seize new opportunities. The data analytics team is involved in these processes to assess and analyze the impact of these changes and provide recommendations on their success. This project includes an in-depth analysis of transactional and customer data and experimentation to deliver practical insights and suggestions for improving sales strategies. 
 The project involved three task 
