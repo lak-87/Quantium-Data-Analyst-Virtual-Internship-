@@ -20,7 +20,7 @@ The project involved three task
   * Task 2: Experimentation and Uplift Testing
   * Task 3: Analytics and Commercial Application
 
-2.	Tools
+## Tools
 Data Analysis - Rstudio (Libraries used in R)
 a.	library(ggplot2)
 b.	library(tidyr)
