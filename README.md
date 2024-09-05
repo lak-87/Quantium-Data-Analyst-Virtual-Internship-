@@ -11,12 +11,14 @@ Table of Contents
 4.	Experimentation and uplift testing (Task 2)
 5.	Analytics and commercial application (Task 3)
 
-1.	Introduction
+Introduction
+
 Supermarkets frequently adjust their store layouts, product offerings, pricing, and promotions to meet evolving customer needs and preferences, stay competitive, and seize new opportunities. The data analytics team is involved in these processes to assess and analyze the impact of these changes and provide recommendations on their success. This project includes an in-depth analysis of transactional and customer data and experimentation to deliver practical insights and suggestions for improving sales strategies. 
 The project involved three task 
-Task 1: Data Exploration and Customer Analysis
-Task 2: Experimentation and Uplift Testing
-Task 3: Analytics and Commercial Application
+
+  Task 1: Data Exploration and Customer Analysis
+  Task 2: Experimentation and Uplift Testing
+  Task 3: Analytics and Commercial Application
 
 2.	Tools
 Data Analysis - Rstudio (Libraries used in R)
