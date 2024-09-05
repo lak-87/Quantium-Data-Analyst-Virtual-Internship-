@@ -7,6 +7,6 @@ Certificate of Completion:https://forage-uploads-prod.s3.amazonaws.com/completio
 Table of Contents
 1.	Introduction 
 2.	Tools
-3.	Task 1: Data Exploration and Customer Analytics
-4.	Task 2: Experimentation and uplift testing
-5.	Task 3:Analytics and commercial application
+3.	Data Exploration and Customer Analytics (Task 1)
+4.	Experimentation and uplift testing (Task 2)
+5.	Analytics and commercial application (Task 3)
