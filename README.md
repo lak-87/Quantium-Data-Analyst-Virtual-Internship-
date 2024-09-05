@@ -23,10 +23,10 @@ The project involved three task
 ## Tools
 
 Data Analysis - Rstudio (Libraries used in R)<br/>
-a.	library(ggplot2)<br/>
-b.	library(tidyr)<br/>
-c.	library(data.table)
-d.	library(tidyverse)
+ *	library(ggplot2)<br/>
+ * library(tidyr)<br/>
+ * library(data.table)
+ * library(tidyverse)
 e.	library(readr)
 f.	library(skimr)
 g.	library(janitor)
