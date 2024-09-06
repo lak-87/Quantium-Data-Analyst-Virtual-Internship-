@@ -70,7 +70,8 @@ Match trial stores 77, 86 and 88 to control stores that are similar to the trial
  * Monthly overall sales revenue
  * Monthly number of customers
  * Monthly number of transactions per customer
-Considered Pearson correlations and magnitude distance as measures to compare different control stores to each of the trial stores
+Considered Pearson correlations and magnitude distance as measures to compare different control stores to each of the trial stores.
+
 </br> The main goals of the task are 
  1.	Find the control stores by exploring data, defining metrics and visualize graphs
  2.	Assessment of trial -Discover the insights/trends by comparing trial stores with control stores
